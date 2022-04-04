@@ -27,3 +27,6 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=brittmol&style=flat-square&color=blue" alt=""/>
 </div>
 
+[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=brittmol&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 📫 How to reach me: britt.moliver@gmail.com
+
